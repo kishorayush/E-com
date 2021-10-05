@@ -1,0 +1,11 @@
+    </ul>
+</section>
+<div class="img">
+    <img src="discountnav.jpg" alt="DISCOUNT" height="250px" width="100%">
+</div>
+<div class="disco">
+    <img src="fastd.png" alt="">
+</div>
+
+<div class="fruits">
+    <h1>FRUITS</h1>
